@@ -1,0 +1,15 @@
+# Data Processing
+pandas
+numpy
+
+# SQL Connectivity (if using Python to load data)
+sqlalchemy
+psycopg2-binary
+
+# Advanced HR Stats
+scipy
+statsmodels
+
+# Visualization (for custom Power BI Python visuals)
+matplotlib
+seaborn
